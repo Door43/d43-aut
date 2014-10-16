@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aut:home|Door43 (aut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aut|d43-aut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aut/archive/master.zip|d43-aut.zip]]
+
+**Recent Changes**
+{{changes>ns = aut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aut|Ethnologue data]]
+
